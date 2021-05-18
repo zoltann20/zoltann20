@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zoltann20
+- 👀 I’m interested in Web development and Web design
+- 🌱 I’m currently learning Vue.js and Angular
+- 😁 I'm good at HTML,CSS,JS,PHP
